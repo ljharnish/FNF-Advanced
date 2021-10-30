@@ -1,0 +1,3 @@
+graphics/downreceptor.bmp
+210
+1629851765.3144267

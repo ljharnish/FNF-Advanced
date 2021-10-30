@@ -1,0 +1,3 @@
+graphics/common_fixed_8x16_font.bmp
+7134
+1630441533.8676152

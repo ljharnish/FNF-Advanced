@@ -1,0 +1,3 @@
+graphics/upreceptor.json
+45
+1629851793.2900145

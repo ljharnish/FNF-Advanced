@@ -1,0 +1,3 @@
+graphics/leftreceptor.json
+45
+1629851798.2016735

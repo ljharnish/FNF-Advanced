@@ -1,0 +1,3 @@
+graphics/leftreceptor.bmp
+210
+1629851771.4395223

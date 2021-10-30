@@ -1,0 +1,3 @@
+graphics/rightreceptor.bmp
+210
+1629851782.4917157

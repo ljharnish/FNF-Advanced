@@ -1,0 +1,3 @@
+graphics/rightreceptor.json
+45
+1629851798.576763

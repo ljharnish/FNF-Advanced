@@ -1,0 +1,3 @@
+graphics/rightarrow.json
+45
+1629851797.712648

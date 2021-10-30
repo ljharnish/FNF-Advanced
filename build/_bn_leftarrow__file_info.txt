@@ -1,0 +1,3 @@
+graphics/leftarrow.bmp
+210
+1629853022.1615465
